@@ -1,4 +1,4 @@
-## Student Performance Analysis: Factors Influencing Academic Success
+#Student Performance Analysis: Factors Influencing Academic Success
 
 This project explores the multitude of factors influencing student performance. Leveraging Python alongside powerful libraries such as Pandas, NumPy, Matplotlib and Seaborn, we conduct an in-depth examination of a diverse dataset encompassing demographic details and academic scores.
 
