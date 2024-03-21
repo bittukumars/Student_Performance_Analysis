@@ -2,7 +2,7 @@
 
 This project explores the multitude of factors influencing student performance. Leveraging Python alongside powerful libraries such as Pandas, NumPy, Matplotlib and Seaborn, we conduct an in-depth examination of a diverse dataset encompassing demographic details and academic scores.
 
-**Key Findings:**
+## Key Findings:
 1. **Gender Disparities:** Males excel in Mathematics, while females outperform in Reading and Writing.
 2. **Ethnicity Impact:** Scores exhibit a linear progression from Group A to E, indicating its influence.
 3. **Parental Education:** Higher parental education correlates with higher student scores.
